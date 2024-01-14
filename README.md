@@ -5,7 +5,9 @@
 
 This modpack can be installed and fully run on & VR Headset! 😻
 
-👉 [Main Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/)
+👉 [Cookies Client 😊 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/)
+
+👉 [Cookies Vision 👀 Modpack Website](https://thunderstore.io/c/lethal-company/p/ChocolateCookies/Cookies_Vision_Modpack/)
 
 If facing issues, please delete your config folder, and let modpack update write new config files.
 
