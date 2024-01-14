@@ -1,0 +1,33 @@
+{
+  "name": "CookiesVR",
+  "version_number": "1.0.0",
+  "website_url": "https://discord.gg/7r7RBpybVK",
+  "description": "🍪 [v47 & v49] Play Lethal Company, now in VR! 🍪",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "DaXcess-LethalCompanyVR-1.0.0",
+    "notnotnotswipez-MoreCompany-1.7.4",
+    "TwinDimensionalProductions-CoilHeadStare-1.0.3",
+    "Suskitech-AlwaysHearActiveWalkies-1.4.4",
+    "MegaPiggy-BuyableShotgunShells-1.0.2",
+    "Jamil-Corporate_Restructure-1.0.6",
+    "Spyci-CozyImprovements-1.2.1",
+    "monkes_mods-JumpDelayPatch-1.0.1",
+    "Ceelery-Kast-1.0.3",
+    "HolographicWings-LethalExpansion-1.3.19",
+    "BlueAmulet-LCBetterClock-1.0.3",
+    "HomelessGinger-MaskedEnemyOverhaul-3.0.0",
+    "linkoid-DissonanceLagFix-1.0.0",
+    "x753-More_Suits-1.4.1",
+    "MaxWasUnavailable-MoonOfTheDay-1.0.4",
+    "quackandcheese-MirrorDecor-1.2.3",
+    "Jordo-NeedyCats-1.1.1",
+    "RugbugRedfern-Skinwalkers-3.0.0",
+    "CapyCat-Solos_Bodycams-1.0.5",
+    "MoonJuice-SprintLadderFix-1.0.0",
+    "Hexnet111-SuitSaver-1.1.4",
+    "KodiCraft-TermSpeak-1.1.0",
+    "Blorb-WeatherMultipliers-1.1.0",
+    "sunnobunno-YippeeMod-1.2.3"
+  ]
+}
