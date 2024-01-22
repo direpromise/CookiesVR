@@ -1,3 +1,23 @@
+# CookiesVR 1.0.2
+
+- Added CookiesMoreCompany
+- Added TooManyEmotes
+- Added CookiesSounds
+- Added SellTracker
+- Added LCBetterSaves
+- Added Hold_Scan_Button
+- Added Symbiosis
+- Added Glow_Steps
+- Added HideModList
+- Added Aquatis
+- Added Coroner
+- Updated LethalCompanyVR
+- Updated BuyableShotgunShells 
+- Updated LethalLib 
+- Updated Skinwalkers
+- Updated MaskedEnemyOverhaul
+
+
 # CookiesVR 1.0.1
 
 - Updated LethalCompanyVR:
