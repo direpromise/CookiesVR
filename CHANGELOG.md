@@ -11,6 +11,7 @@
 - Added HideModList
 - Added Aquatis
 - Added Coroner
+- Updated MirrorDecor
 - Updated LethalCompanyVR
 - Updated BuyableShotgunShells 
 - Updated LethalLib 
