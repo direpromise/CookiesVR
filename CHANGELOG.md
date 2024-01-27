@@ -1,3 +1,11 @@
+# CookiesVR 1.0.3
+
+- Updated CookiesSounds
+- Updated CookiesMoreCompany 
+- Updated TooManyEmotes
+- Updated LethalExpansion
+- Updated LethalCompanyVR
+
 # CookiesVR 1.0.2
 
 - Added CookiesMoreCompany
