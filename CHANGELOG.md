@@ -4,7 +4,7 @@
 - Updated CookiesMoreCompany 
 - Updated TooManyEmotes
 - Updated LethalExpansion
-- Updated LethalCompanyVR
+- Updated LethalCompanyVR 
 
 # CookiesVR 1.0.2
 
