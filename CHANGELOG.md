@@ -1,3 +1,13 @@
+# CookiesVR 1.0.4
+
+- Added CookiesPresents
+- Updated CookiesMoreCompany
+- Updated CookiesSounds
+- Updated TooManyEmotes
+- Updated CoilHeadStare
+- Updated LethalCompanyVR
+- Updated LethalLib
+
 # CookiesVR 1.0.3
 
 - Updated CookiesSounds
