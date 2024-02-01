@@ -1,3 +1,10 @@
+# CookiesVR 1.0.5
+
+- Updated CookiesSounds
+- Updated LCSoundTool
+- Updated MaskedEnemyOverhaul
+- Updated LethalCompanyVR
+
 # CookiesVR 1.0.4
 
 - Added CookiesPresents
